@@ -1,0 +1,8 @@
+C:\MyGit\Personal\AzureSdkTesting\AzureSdkTesting\AzureSdkTesting\bin\Debug\netcoreapp2.1\AzureSdkTesting.deps.json
+C:\MyGit\Personal\AzureSdkTesting\AzureSdkTesting\AzureSdkTesting\bin\Debug\netcoreapp2.1\AzureSdkTesting.runtimeconfig.json
+C:\MyGit\Personal\AzureSdkTesting\AzureSdkTesting\AzureSdkTesting\bin\Debug\netcoreapp2.1\AzureSdkTesting.runtimeconfig.dev.json
+C:\MyGit\Personal\AzureSdkTesting\AzureSdkTesting\AzureSdkTesting\bin\Debug\netcoreapp2.1\AzureSdkTesting.dll
+C:\MyGit\Personal\AzureSdkTesting\AzureSdkTesting\AzureSdkTesting\obj\Debug\netcoreapp2.1\AzureSdkTesting.csprojAssemblyReference.cache
+C:\MyGit\Personal\AzureSdkTesting\AzureSdkTesting\AzureSdkTesting\obj\Debug\netcoreapp2.1\AzureSdkTesting.csproj.CoreCompileInputs.cache
+C:\MyGit\Personal\AzureSdkTesting\AzureSdkTesting\AzureSdkTesting\obj\Debug\netcoreapp2.1\AzureSdkTesting.AssemblyInfoInputs.cache
+C:\MyGit\Personal\AzureSdkTesting\AzureSdkTesting\AzureSdkTesting\obj\Debug\netcoreapp2.1\AzureSdkTesting.AssemblyInfo.cs
